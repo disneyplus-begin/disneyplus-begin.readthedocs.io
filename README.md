@@ -2,34 +2,7 @@
 <html>
 <head>
 
-<script>
-  var _paq = window._paq = window._paq || [];
-  / tracker methods like "setCustomDimension" should be called before "trackPageView" /
-  _paq.push(['trackPageView']);
-  _paq.push(['enableLinkTracking']);
-  (function() {
-    var u="https://drivers.ink/matomo/";
-    _paq.push(['setTrackerUrl', u+'matomo.php']);
-    _paq.push(['setSiteId', '79']);
-    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
-  })();
-</script>
 
-<script>
-  var _mtm = window._mtm = window._mtm || [];
-  _mtm.push({'mtm.startTime': (new Date().getTime()), 'event': 'mtm.Start'});
-  (function() {
-    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-    g.async=true; g.src='https://drivers.ink/matomo/js/container_simb9nfo.js'; s.parentNode.insertBefore(g,s);
-  })();
-</script>
-
-<img referrerpolicy="no-referrer-when-downgrade" src="https://drivers.ink/matomo/matomo.php?idsite=79&amp;rec=1" style="border:0" alt="" />
-
- 
-
-<img referrerpolicy="no-referrer-when-downgrade" src="https://drivers.ink/matomo/matomo.php?idsite=79&amp;rec=1" style="border:0" alt="" />
 
 <title>Disneyplus.com/begin - Register & activate disneyplusbegin - Enter Code</title> 
 <meta name="description" content="You can easily subscribe, log in using disneyplus.com/begin 8-digit code, and download videos in this app.">   <meta name="keywords" content="disneyplus.com/begin">  
