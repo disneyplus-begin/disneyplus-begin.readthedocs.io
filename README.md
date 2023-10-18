@@ -3,8 +3,6 @@
 <html>
 <head>
 
-<title>Disneyplus.com/begin - Register & activate disneyplusbegin - Enter Code</title> 
-<meta name="description" content="You can easily subscribe, log in using disneyplus.com/begin 8-digit code, and download videos in this app.">   <meta name="keywords" content="disneyplus.com/begin">  
 
 <title>Create and Activate Disneyplus Account via disneyplus.com/begin</title>
     <style>
